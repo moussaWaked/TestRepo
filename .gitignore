@@ -1,5 +1,5 @@
-
 TestRepo.wiki/.git
+TestRepo.wiki/.git/*
 *.rbc
 capybara-*.html
 .rspec
